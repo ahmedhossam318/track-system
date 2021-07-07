@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1623100637 source:c:\users\alsha\desktop\track\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<string.h>
+
